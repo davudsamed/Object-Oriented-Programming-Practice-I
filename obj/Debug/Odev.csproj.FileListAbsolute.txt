@@ -1,0 +1,10 @@
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.csprojResolveAssemblyReference.cache
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\Davud Tombul\source\repos\C#\Odev\Odev\obj\Debug\Odev.pdb
